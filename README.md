@@ -1,7 +1,7 @@
 # CS-255-8-2-
 # Portfolio README
 
-## DriverPass Project Overview
+## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 The DriverPass project aimed to design a system for a driving education service. The client, the driving school or education service provider, sought a comprehensive system for efficient booking, progress tracking, and scheduling.
 
